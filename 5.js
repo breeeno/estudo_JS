@@ -10,8 +10,8 @@ let objectoC = {
 
 };
 
-console.log (objetoA == objetoB)
-console.log (objetoB == objectoC)
+console.log (objetoA === objetoB)
+console.log (objetoB === objectoC)
 objetoB.pontos = 15
 console.log(objetoA)
 
