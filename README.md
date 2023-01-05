@@ -1,2 +1,2 @@
 # estudo_JS
-repo pra estudo do JAVÔSCRIPTÔ 
+repo pra estudo do js 
